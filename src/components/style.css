@@ -1,0 +1,38 @@
+
+.form{
+    border: 1px solid black;
+    margin-top: 50px;
+    padding: 11px;
+    background-color:rgb(251, 227, 227)
+}
+.btn{
+    margin-top:16px;
+}
+
+select#select_Status {
+    width: 140px;
+}
+select#select_User {
+    width: 140px;
+}
+.centre{
+    display: flex;
+    
+    justify-content: space-around;
+    margin-top: 30px;
+}
+select#select_User {
+    width: 190px;
+    margin-left: 77px;
+    margin-top: 40px;
+}
+button.btn.btn.btn-secondary {
+    margin-left: 800px;
+    margin-top: -40px;
+    background-color: rgb(180, 246, 180);
+    color:black;
+}
+select.form-select {
+    width: 181px;
+    margin-left: 60px;
+}
